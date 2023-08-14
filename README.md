@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rony</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/PklKfxjCKHEAAAAC/gif.gif"/>
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/PklKfxjCKHEAAAAC/gif.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rony720&label=Profile%20views&color=0e75b6&style=flat" alt="rony720" /> </p>
 
 
