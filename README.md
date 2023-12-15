@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Physioplay](https://github.com/Rony720/TCS_3PM)
 
-- 🌱 I’m currently learning *AWS, Unity, Reinforcement Learning*
+- 🌱 I’m currently learning *AWS, Django*
 
 - 💬 Ask me about *Flutter, Javascript, Python*
 
